@@ -12,3 +12,5 @@ Removed FFI since Roblox uses Luau
 **To use:**
 
 call delaunay.triangulate(table) with a table of Vector2s of your points. Returns a table of triangle structs. Loop through them and draw the triangles using the point structs.
+
+License: inherited from reference
